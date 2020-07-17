@@ -1,6 +1,7 @@
 # Github Projects Repository
 
 <p align="center">
+
   Web: Cadastrar novos repositórios, enviando para a API em Node.
 
   Mobile: Listar e dar likes nos repositórios que estão salvos na API.
@@ -16,11 +17,10 @@
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/ArielKollross/Github-Projects-Repository>
+$ git clone git@github.com:ArielKollross/Github-Projects-Repository.git
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd web
-
 
 # Instale as dependências
 $ yarn
