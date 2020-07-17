@@ -16,7 +16,7 @@
 </h1>
 
 <h1 align="center">
-  <img height="350"
+  <img height="500"
   alt="app mobile" title="#Listagem de repositórios" src="./assets/mobile.png" />
 </h1>
 
