@@ -15,6 +15,10 @@
   <img alt="form web" title="#Tela de cadastro" src="./assets/web.png" />
 </h1>
 
+<h1 align="center">
+  <img alt="app mobile" title="#Listagem de repositórios" src="./assets/mobile.png" />
+</h1>
+
 ### 🎲 Rodando Aplicativo web
 
 ```bash
@@ -26,7 +30,6 @@ $ cd web
 
 # Instale as dependências
 $ yarn
-
 #ou com npm
 $ npm install
 
