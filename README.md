@@ -1,6 +1,6 @@
 # Github Projects Repository
 
-<p align="center">
+<p>
 
   Web: Cadastrar novos repositórios, enviando para a API em Node.
 
